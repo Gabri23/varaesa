@@ -1,0 +1,46 @@
+{
+	"id":"Meses 2020",
+	"children": [
+		{"id": "Abril",
+			"children":[
+				{"id": "6"}
+			]
+		},
+		{"id": "Mayo",
+			"children":[
+				{"id":"4"}
+			]
+		},
+		{"id": "Junio",
+			"children":[
+				{"id":"6"}
+			]
+		},
+		{"id": "Julio",
+			"children":[
+				{"id":"134"}
+			]
+		},
+		{"id": "Agosto",
+			"children":[
+				{"id":"286"}
+			]
+		},
+		{"id": "Septiembre",
+			"children":[
+				{"id":"468"}
+			]
+		},
+		{"id": "Octubre",
+			"children":[
+				{"id":"378"}
+			]
+		},
+		{"id": "Total",
+			"children":[
+				{"id":"1282"}
+			]
+		}
+	]
+	
+}
